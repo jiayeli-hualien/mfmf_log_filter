@@ -1,0 +1,3 @@
+"pattern_name","regexp_pattern","is_case_senstive","pattern_enable","pattern_description","exec_filter_script","exec_filter_enable","log_time_format"
+"Camera log","Cam","false","true","maybe a camera log line",,false,None
+"Exec script example","incidentd: Buffer corrupted: expect ([\d]+) bytes, read ([\d]+) bytes","false","true","example for use exec_script","result = (int)(groups[0]) < (int)(groups[1])","true","None"

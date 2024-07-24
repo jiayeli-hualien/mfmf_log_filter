@@ -1,0 +1,2 @@
+"rule_name","file_basename_regexp","is_case_senstive","rule_description","rule_enable"
+"SS A15 dump state log","dumpState_[\w]+_[\d]+\.log","true","phone logcat log and other logs","true"

@@ -1,0 +1,2 @@
+"rule_name","file_basename_regexp","is_case_senstive","rule_description","rule_enable"
+"skip zip","^.*\.zip$","false","zip file is not a text file","true"
